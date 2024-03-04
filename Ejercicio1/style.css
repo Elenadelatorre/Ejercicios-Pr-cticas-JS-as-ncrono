@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#character-list {
+  margin-bottom: 20px; /* Espacio entre el select y la imagen */
+}
+
+.character-image {
+  max-width: 100%; /* Para asegurarse de que la imagen no se desborde */
+}

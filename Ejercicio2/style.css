@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ajustar al alto de la ventana del navegador */
+  margin: 0; /* Eliminar márgenes predeterminados */
+}
+
+.random-image {
+  width: 125px;
+  height: auto;
+}
